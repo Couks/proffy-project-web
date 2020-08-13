@@ -10,15 +10,15 @@ function TeacherItem() {
       <header>
         <img src="https://avatars3.githubusercontent.com/u/49662686?s=460&u=5ffe33ea838c31c657417b0005bae17453a0f840&v=4" alt="Matheus Castro" />
         <div>
-          <strong>Matheus Castro 1</strong>
-          <span>Arrasacú</span>
+          <strong>Matheus Castro</strong>
+          <span>Estudante</span>
         </div>
       </header>
 
       <p>
         Entusiasta das melhores tecnologias de comer o cu de quem ta lendo.
                 <br></br>
-        Apaixonado por tecnologia, tartarugas ninja, homem aranha, música, assuntos filosóficos, e falar merda.
+        Caralho!? tá lendo ainda? que delícia.
       </p>
 
       <footer>
